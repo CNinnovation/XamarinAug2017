@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="Hello">Hallo, Welt!</string>
+  <string name="ApplicationName">Android Localization</string>
+  <plurals name="numberOfChildren">
+    <item quantity="one">Da ist %d Kind.</item>
+    <item quantity="other">Da sind %d Kinder.</item>
+  </plurals>
+</resources>
